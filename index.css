@@ -156,13 +156,13 @@ header {
 
   .articles .btn {
     background: #252525;
-    color: #99D930;
+    color: #fff;
   }
 
   .articles .btn:hover,
   .articles .btn:focus {
     background: #fff;
-    color: #252525;
+    color: #99D930;
   }
 
   .portfolio {
